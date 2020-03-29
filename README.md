@@ -1,4 +1,4 @@
-# bhardwajhimanshu2515
+# online_banking_system
 This is a java program for Online banking system.
 
 Its is made using java awt and swingx.
