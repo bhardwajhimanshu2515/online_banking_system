@@ -1,6 +1,18 @@
-# online_banking_system
-This is a java program for Online banking system.
+# ONLINE BANKING SYSTEM  💰 
 
-Its is made using java awt and swingx.
+Using this **Application**, one can **Register**, **Login**, **Check Balance**, **Transfer Money**, etc. 
+# 📱 Technology
 
-It has functionalities like register,login,transfer money,deposit money and check balance
+- Core Java
+- Swingx
+- AWT
+  
+# 🕹  FUNCTIONS
+
+- Register.
+- Login.
+- Check Balance.
+- Transfer Money.
+  
+
+ 
